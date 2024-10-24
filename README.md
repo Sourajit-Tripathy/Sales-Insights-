@@ -1,4 +1,4 @@
-# Sales-Insights-
+# Sales-Insights-Brick & mortar business 
 
 -- Designed a Power BI dashboard to understand AtliQ hardware goods sales trend.
 
